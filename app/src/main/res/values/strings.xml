@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hien Age in Minutes</string>
+    <string name="calculate_textview">CALCULATE YOUR</string>
+    <string name="age_textview">AGE</string>
+    <string name="min_textview">IN MINUTES</string>
+    <string name="button_text">SELECT DATE</string>
+    <string name="selected_view">Selected Date</string>
+    <string name="min_view">In Minutes Till Date</string>
+</resources>
